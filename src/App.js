@@ -1,24 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import Main from 'pages/Main';
+import { Box, CircularProgress, Typography } from '@mui/material';
+import { MyContext } from 'contexts/DataProvider';
+import { useContext, useEffect, useState } from 'react';
+import { useStyles } from 'styles';
 
-function App() {
+
+const App = () => {
+  const classes = useStyles();
+  const data = useContext(MyContext);
+  const [delay, setDelay] = useState('')
+
+  useEffect(() => {
+    setTimeout(() => {
+      setDelay('This might take from 20 seconds up to 1 minute according to your internet speed, please wait...')
+    }, 5000);
+  }, [])
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      {data.data ? <Main /> :
+        <Box className={classes.loading}>
+          <CircularProgress />
+          <Typography>Loading...{delay}</Typography>
+        </Box>
+      }
+    </>
   );
 }
 

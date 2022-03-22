@@ -1,0 +1,221 @@
+{
+  "AZE": {
+    "aged_65_older": "6.018",
+    "aged_70_older": "3.871",
+    "cardiovasc_death_rate": "559.812",
+    "continent": "Asia",
+    "data": [
+      {
+        "date": "2020-02-24",
+        "total_cases": 501564,
+        "new_cases": 15,
+        "new_deaths": 9,
+        "total_cases_per_million": 0.126
+      },
+      {
+        "date": "2020-02-25",
+        "total_cases": 5.0,
+        "new_cases": 21,
+        "new_deaths": 20,
+        "total_cases_per_million": 0.126,
+        "new_cases_per_million": 0.0,
+        "stringency_index": 8.33
+      },
+      {
+        "date": "2020-02-26",
+        "total_cases": 5.0,
+        "new_cases": 25,
+        "new_deaths": 18,
+        "total_cases_per_million": 0.126,
+        "new_cases_per_million": 0.0,
+        "stringency_index": 8.33
+      },
+      {
+        "date": "2020-02-27",
+        "total_cases": 5.0,
+        "new_cases": 29,
+        "new_deaths": 13,
+        "total_cases_per_million": 0.126,
+        "new_cases_per_million": 0.0,
+        "stringency_index": 8.33
+      },
+      {
+        "date": "2020-02-28",
+        "total_cases": 5.0,
+        "new_cases": 35,
+        "new_deaths": 10,
+        "total_cases_per_million": 0.126,
+        "new_cases_per_million": 0.0,
+        "stringency_index": 8.33
+      },
+      {
+        "date": "2020-02-29",
+        "total_cases": 791404,
+        "total_deaths": 9651,
+        "new_cases": 43,
+        "new_deaths": 15,
+        "total_cases_per_million": 0.126,
+        "new_cases_per_million": 0.0,
+        "stringency_index": 8.33
+      }
+    ],
+    "diabetes_prevalence": "7.11",
+    "female_smokers": "0.3",
+    "gdp_per_capita": "15847.419",
+    "handwashing_facilities": "83.241",
+    "hospital_beds_per_thousand": "4.7",
+    "human_development_index": "0.756",
+    "life_expectancy": "73",
+    "location": "Azerbaijan",
+    "male_smokers": "42.5",
+    "median_age": "32.4",
+    "population": "10223344",
+    "population_density": "119.309"
+  },
+  "BEL": {
+    "aged_65_older": "18.571",
+    "aged_70_older": "12.849",
+    "cardiovasc_death_rate": "114.812",
+    "continent": "Europe",
+    "data": [
+      {
+        "date": "2020-02-24",
+        "total_cases": 5.0,
+        "new_cases": 40,
+        "new_deaths": 20,
+        "total_cases_per_million": 0.126
+      },
+      {
+        "date": "2020-02-25",
+        "total_cases": 5.0,
+        "new_cases": 49,
+        "new_deaths": 25,
+        "total_cases_per_million": 0.126,
+        "new_cases_per_million": 0.0,
+        "stringency_index": 8.33
+      },
+      {
+        "date": "2020-02-26",
+        "total_cases": 5.0,
+        "new_cases": 55,
+        "new_deaths": 17,
+        "total_cases_per_million": 0.126,
+        "new_cases_per_million": 0.0,
+        "stringency_index": 8.33
+      },
+      {
+        "date": "2020-02-27",
+        "total_cases": 5.0,
+        "new_cases": 59,
+        "new_deaths": 12,
+        "total_cases_per_million": 0.126,
+        "new_cases_per_million": 0.0,
+        "stringency_index": 8.33
+      },
+      {
+        "date": "2020-02-28",
+        "total_cases": 5.0,
+        "new_cases": 74,
+        "new_deaths": 10,
+        "total_cases_per_million": 0.126,
+        "new_cases_per_million": 0.0,
+        "stringency_index": 8.33
+      },
+      {
+        "date": "2020-02-29",
+        "total_cases": 1152404,
+        "total_deaths": 15651,
+        "new_cases": 78,
+        "new_deaths": 11,
+        "total_cases_per_million": 0.126,
+        "new_cases_per_million": 0.0,
+        "stringency_index": 8.33
+      }
+    ],
+    "diabetes_prevalence": "4.29",
+    "female_smokers": "0.2",
+    "gdp_per_capita": "21847.419",
+    "handwashing_facilities": "43.241",
+    "hospital_beds_per_thousand": "3.7",
+    "human_development_index": "0.796",
+    "life_expectancy": "53",
+    "location": "Belgium",
+    "male_smokers": "82.5",
+    "median_age": "49.4",
+    "population": "1053344",
+    "population_density": "19.309"
+  },
+  "CAN": {
+    "aged_65_older": "74.018",
+    "aged_70_older": "30.871",
+    "cardiovasc_death_rate": "1559.812",
+    "continent": "North America",
+    "data": [
+      {
+        "date": "2020-02-24",
+        "total_cases": 5.0,
+        "new_cases": 45,
+        "new_deaths": 2,
+        "total_cases_per_million": 0.126
+      },
+      {
+        "date": "2020-02-25",
+        "total_cases": 5.0,
+        "new_cases": 48,
+        "new_deaths": 8,
+        "total_cases_per_million": 0.126,
+        "new_cases_per_million": 0.0,
+        "stringency_index": 8.33
+      },
+      {
+        "date": "2020-02-26",
+        "total_cases": 5.0,
+        "new_cases": 58,
+        "new_deaths": 14,
+        "total_cases_per_million": 0.126,
+        "new_cases_per_million": 0.0,
+        "stringency_index": 8.33
+      },
+      {
+        "date": "2020-02-27",
+        "total_cases": 5.0,
+        "new_cases": 78,
+        "new_deaths": 17,
+        "total_cases_per_million": 0.126,
+        "new_cases_per_million": 0.0,
+        "stringency_index": 8.33
+      },
+      {
+        "date": "2020-02-28",
+        "total_cases": 5.0,
+        "new_cases": 74,
+        "new_deaths": 3,
+        "total_cases_per_million": 0.126,
+        "new_cases_per_million": 0.0,
+        "stringency_index": 8.33
+      },
+      {
+        "date": "2020-02-29",
+        "total_cases": 1291404,
+        "total_deaths": 5651,
+        "new_cases": 86,
+        "new_deaths": 1,
+        "total_cases_per_million": 0.126,
+        "new_cases_per_million": 0.0,
+        "stringency_index": 8.33
+      }
+    ],
+    "diabetes_prevalence": "9.11",
+    "female_smokers": "0.6",
+    "gdp_per_capita": "158447.419",
+    "handwashing_facilities": "98.241",
+    "hospital_beds_per_thousand": "4.7",
+    "human_development_index": "0.756",
+    "life_expectancy": "73",
+    "location": "Canada",
+    "male_smokers": "42.5",
+    "median_age": "32.4",
+    "population": "10223344",
+    "population_density": "119.309"
+  }
+}
