@@ -23,6 +23,7 @@ export const DataProvider = ({ children }) => {
     setCountry,
     totalCases,
     setTotalCases,
+    period,
     setPeriod,
     chartType,
     setChartType,

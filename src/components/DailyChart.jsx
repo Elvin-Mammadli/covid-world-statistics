@@ -29,7 +29,7 @@ ChartJS.register(
 export const DailyChart = () => {
   const data = useContext(MyContext);
   const { chartType, period, countryData: { newCases, newDeaths, dates } } = data;
-
+  console.log(period)
   const chartData = {
     labels: dates,
     datasets: [
