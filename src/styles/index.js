@@ -5,9 +5,13 @@ export const useStyles = makeStyles({
     width: '100%',
     height: '95vh',
     display: 'flex',
+    flexDirection: 'column',
     justifyContent: 'center',
     alignItems: 'center',
-    gap: 2
+    gap: 2,
+    border: '1px solid black',
+    padding: '0 5%',
+    textAlign: 'center'
   },
   text: {
     width: '100%',

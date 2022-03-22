@@ -33,8 +33,8 @@ export const DataProvider = ({ children }) => {
 
   useEffect(() => {
     if (!data) {
-      getData()
-        .then(res => setData(res));
+      // getData()
+      //   .then(res => setData(res));
     } else {
       statisticsType === 'new' ? setCountryData(getCountryData(data, country, period)) :
       setTotalCases(getTotalCases(data, country));
