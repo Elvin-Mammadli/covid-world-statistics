@@ -9,7 +9,6 @@ export const useStyles = makeStyles({
     justifyContent: 'center',
     alignItems: 'center',
     gap: 2,
-    border: '1px solid black',
     padding: '0 5%',
     textAlign: 'center'
   },
